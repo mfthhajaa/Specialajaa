@@ -1,6 +1,6 @@
 html {
     box-sizing: border-box;
-    background-color: pink;
+    background-color: #0f172a;
   }
   
   body {
@@ -290,4 +290,5 @@ html {
       font-size: 1.5rem;
       font-weight: lighter;
     }
+
   }
